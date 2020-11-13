@@ -1,0 +1,1 @@
+docker run -it --rm  -v $PWD:/rd-wasm-workshop -w /rd-wasm-workshop timegatekeeper/rd-wasm-workshop:latest bash

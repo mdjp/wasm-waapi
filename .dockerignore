@@ -1,0 +1,5 @@
+# We don't need any files to build the wasm-builder image
+*
+
+# Allow the package.json for assembly script compiler
+!/package.json
